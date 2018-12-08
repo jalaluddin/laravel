@@ -2,5 +2,5 @@
 
 function Hello()
 {
-	echo "Hello World";
+	echo "Hello 3 World";
 }
